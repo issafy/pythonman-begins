@@ -11,6 +11,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     # service.create_task()
-    ui.key_listener()
+    ui.__start__()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
